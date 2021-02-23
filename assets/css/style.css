@@ -1,0 +1,13 @@
+body {
+    font-family: 'Kanit', sans-serif !important;
+}
+
+
+.carousel-item {
+    height: 35rem;
+}
+
+.carousel-item > img {
+    object-fit: cover;
+    height: 100%;
+}
